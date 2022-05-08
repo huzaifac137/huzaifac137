@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzaifac137
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in React.Js 
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  twitter and instagram username : @huzaifa_c137
 
