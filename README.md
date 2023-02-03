@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/huzaifa_c137" target="blank"><img src="https://img.shields.io/twitter/follow/huzaifa_c137?logo=twitter&style=for-the-badge" alt="huzaifa_c137" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Advance Web Practices**
 
 - 💬 Ask me about **React , Node.js , MongoDb , Css**
 
