@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm huzaifac137 Huzaifa Bin Shahbaz</h1>
+<h1 align="center">Hi 👋, I'm Huzaifa Bin Shahbaz</h1>
 <h3 align="center">Full stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifac137&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifac137" /> </p>
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/huzaifa_c137" target="blank"><img src="https://img.shields.io/twitter/follow/huzaifa_c137?logo=twitter&style=for-the-badge" alt="huzaifa_c137" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Web Practices**
+- 🌱 I’m currently learning **Advance Web Practices , Next.js**
 
-- 💬 Ask me about **React , Node.js , MongoDb , Css**
+- 💬 Ask me about **React , Node.js , MongoDb , Next.js 
 
 - 📫 How to reach me **huzmanbutt@gmail.com**
 
