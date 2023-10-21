@@ -64,7 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/huzaifac137/huzaifac137/output/snake.svg" alt="Snake animation" />
 
 ###
 
