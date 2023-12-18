@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Bin Shahbaz</h1>
-<h3 align="center">Full stack Web Developer</h3>
+<h3 align="center">Full stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifac137&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifac137" /> </p>
 
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
